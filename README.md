@@ -36,6 +36,15 @@ sms.sendTextMessage({
 - `to`: recipient's phone number
 - `message`: your SMS message
 
+## TODO
+
+- return a result object instead of just the (smstrade) response code
+- handle errors
+- support optional parameters (message id, costs, number of SMS, delivery status)
+- concatenate messages
+- account status, get credits
+- home location register
+
 ## License
 
 Licensed under the MIT license.

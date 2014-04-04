@@ -12,7 +12,8 @@
   },
   "keywords": [
     "sms",
-    "api"
+    "api",
+    "smstrade"
   ],
   "author": "Oliver Jakoubek <mail@oliverjakoubek.de>",
   "license": "MIT",
