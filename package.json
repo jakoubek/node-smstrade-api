@@ -1,6 +1,6 @@
 {
   "name": "smstrade-api",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Node.js module to access the smstrade API.",
   "main": "./lib/index.js",
   "scripts": {
