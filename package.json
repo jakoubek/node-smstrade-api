@@ -1,0 +1,30 @@
+{
+  "name": "smstrade-api",
+  "version": "0.0.1",
+  "description": "Node.js module to access the smstrade API.",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jakoubek/node-smstrade-api.git"
+  },
+  "keywords": [
+    "sms",
+    "api"
+  ],
+  "author": "Oliver Jakoubek <mail@oliverjakoubek.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jakoubek/node-smstrade-api/issues"
+  },
+  "homepage": "https://github.com/jakoubek/node-smstrade-api",
+  "dependencies": {
+    "underscore": "^1.6.0"
+  },
+  "devDependencies": {
+    "should": "^3.2.0",
+    "mocha": "^1.18.2"
+  }
+}
